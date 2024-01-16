@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://3.27.1.72/CollegeMgmt/';
+$config['base_url'] = 'http://13.211.60.92/CollegeMgmt/';
 
 /*
 |--------------------------------------------------------------------------
