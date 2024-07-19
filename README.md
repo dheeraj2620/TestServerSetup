@@ -8,14 +8,14 @@ Update base url in CollegeMgmt/application/config/config file with IP address of
 
 Connect the instance using putty and then run the below script
 ```
-git clone https://github.com/SmithaVerity/TestServerSetup.git
+git clone https://github.com/dheeraj2620/TestServerSetup.git
 cd TestServerSetup/
 sh deployServer.sh
 ```
 
 To connect to rds db
 ```
-git clone -b rds https://github.com/SmithaVerity/TestServerSetup.git
+git clone -b rds https://github.com/dheeraj2620/TestServerSetup.git
 cd TestServerSetup/
 sh deployServer.sh
 ```
